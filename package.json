@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "js-quantities": "^1.7.6",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
