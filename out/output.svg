@@ -323,10 +323,10 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <rect width="410" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find my socials at
-      <a xlink:href="https://links-jefferson.vercel.app">links-jefferson.vercel.app</a>
+      <a xlink:href="https://links-jefferson.vercel.app">links.jeffersonfed.xyz</a>
     </text>
   </g>
 
