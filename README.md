@@ -1,1 +1,1 @@
-[![Profile](./out/output.svg)](https://links.jeffersonfed.xyz)
+[![Links](./out/output.svg)](https://links.jeffersonfed.xyz)
