@@ -1,4 +1,4 @@
-<svg width="550" height="165" viewBox="0 0 550 165" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -100,7 +100,7 @@
       }
     }
 
-    @keyframes msg-2 {
+     @keyframes msg-2 {
       0% {
         opacity: 0;
         transform: translate(10px, 65px);
@@ -121,8 +121,8 @@
         transform: translate(10px, 120px);
       }
     }
-<!-- 
-    @keyframes msg-4 {
+
+    <!-- @keyframes msg-4 {
       0% {
         opacity: 0;
         transform: translate(10px, 197px);
