@@ -100,14 +100,14 @@
       }
     }
 
-    @keyframes msg-2 {
+     @keyframes msg-2 {
       0% {
         opacity: 0;
-        transform: translate(10px, 53px);
+        transform: translate(10px, 65px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 48px);
+        transform: translate(10px, 72px);
       }
     }
 
@@ -256,7 +256,7 @@
   </g>
 
   <!-- typing 2 -->
-  <g transform="translate(10, 75)" class="typing-2">
+  <g transform="translate(10, 72)" class="typing-2">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -274,7 +274,7 @@
   </g>
 
   <!-- From Columbus... -->
-  <g transform="translate(10, 75)" class="msg-2">
+  <g transform="translate(10, 72)" class="msg-2">
      <rect width="225" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by</text>
   </g>
