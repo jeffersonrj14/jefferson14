@@ -252,7 +252,7 @@
   <g transform="translate(10, 0)" class="msg-1">
     <rect width="375" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Based in Indonesia and it's supposed to be</text>
-    <text x="15" y="50">32°C (90F) and <tspan class="emoji">🌤</tspan> today.</text>
+    <text x="15" y="50">31°C (88F) and <tspan class="emoji">🌥</tspan> today.</text>
   </g>
 
   <!-- typing 2 -->
